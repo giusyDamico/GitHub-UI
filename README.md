@@ -1,2 +1,2 @@
 # GitHub-UI
-Part 1
+Part 1 of laboratory 
